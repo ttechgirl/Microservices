@@ -1,0 +1,20 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.csproj.user
+*.dbmdl
+*.jfm
+
+# Logs and Local Settings
+*.log
+appsettings.Development.json
+appsettings.json
+
+# Misc
+*.tmp
+*.bak
